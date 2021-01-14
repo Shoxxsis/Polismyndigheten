@@ -8,3 +8,4 @@ then
 ctrl
 then
 +
+c
